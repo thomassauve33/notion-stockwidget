@@ -3,104 +3,104 @@
   "height": "600",
   "symbolsGroups": [
     {
-        "title": "Crypto",
+        "name": "Crypto",
       "symbols": [
         {
-          "s": "BINANCE:BTCUSDT",
-          "d": "BITCOIN"
+          "name": "BINANCE:BTCUSDT",
+          "displayName": "BITCOIN"
         },
         {
-          "s": "BINANCE:ETHUSDT",
-          "d": "ETHEREUM"
+          "name": "BINANCE:ETHUSDT",
+          "displayName": "ETHEREUM"
         },
         {
-          "s": "BINANCE:MATICUSDT",
-          "d": "MATIC"
+          "name": "BINANCE:MATICUSDT",
+          "displayName": "MATIC"
         },
         {
-          "s": "BINANCE:ATOMUSDT",
-          "d": "ATOM"
+          "name": "BINANCE:ATOMUSDT",
+          "displayName": "ATOM"
         },
         {
-          "s": "KUCOIN:LYXEUSDT",
-          "d": "LUKSO"
+          "name": "KUCOIN:LYXEUSDT",
+          "displayName": "LUKSO"
         },
         {
-          "s": "BINANCE:BNBUSDT",
-          "d": "BNB"
+          "name": "BINANCE:BNBUSDT",
+          "displayName": "BNB"
         },
         {
-          "s": "HUOBI:AZEROUSDT",
-          "d": "AZERO"
+          "name": "HUOBI:AZEROUSDT",
+          "displayName": "AZERO"
         },
         {
-          "s": "CRYPTOCAP:TOTAL",
-          "d": "CRYPTO TOTAL"
+          "name": "CRYPTOCAP:TOTAL",
+          "displayName": "CRYPTO TOTAL"
         }
       ]
     },
     {
-      "title": "Indices",
+      "name": "Indices",
       "symbols": [
         {
-          "s": "SP:SPX",
-          "d": "S&P 500"
+          "name": "SP:SPX",
+          "displayName": "S&P 500"
         },
         {
-          "s": "NASDAQ:NDX",
-          "d": "NASDAQ"
+          "name": "NASDAQ:NDX",
+          "displayName": "NASDAQ"
         },
         {
-          "s": "INDEX:CAC40",
-          "d": "CAC40"
+          "name": "INDEX:CAC40",
+          "displayName": "CAC40"
         },
         {
-          "s": "CME_MINI:ES1!",
-          "d": "S&P500 FUTURES"
+          "name": "CME_MINI:ES1!",
+          "displayName": "S&P500 FUTURES"
         },
         {
-          "s": "NASDAQ:AAPL",
-          "d": "AAPL"
+          "name": "NASDAQ:AAPL",
+          "displayName": "AAPL"
         },
         {
-          "s": "NASDAQ:TSLA",
-          "d": "TSLA"
+          "name": "NASDAQ:TSLA",
+          "displayName": "TSLA"
         },
         {
-          "s": "NASDAQ:META",
-          "d": "META"
+          "name": "NASDAQ:META",
+          "displayName": "META"
         },
         {
-          "s": "NASDAQ:AMZN",
-          "d": "AMAZN"
+          "name": "NASDAQ:AMZN",
+          "displayName": "AMAZN"
         }
       ],
       "originalTitle": "Indices"
     },
     {
-      "title": "FOREX",
+      "name": "FOREX",
       "symbols": [
         {
-          "s": "FX:EURUSD",
-          "d": "EURUSD"
+          "name": "FX:EURUSD",
+          "displayName": "EURUSD"
         },
         {
-          "s": "CURRENCYCOM:GOLD",
-          "d": "OR"
+          "name": "CURRENCYCOM:GOLD",
+          "displayName": "OR"
         },
         {
-          "s": "CURRENCYCOM:SILVER",
-          "d": "ARGENT"
+          "name": "CURRENCYCOM:SILVER",
+          "displayName": "ARGENT"
         },
         {
-          "s": "MCX:CRUDEOIL1!",
-          "d": "PÉTROLE"
+          "name": "MCX:CRUDEOIL1!",
+          "displayName": "PÉTROLE"
         }
       ]
     }
   ],
   "showSymbolLogo": true,
-  "colorTheme": "dark",
+  "colorTheme": "light",
   "isTransparent": true,
   "locale": "en"
 }
